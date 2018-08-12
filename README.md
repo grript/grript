@@ -1,5 +1,11 @@
 # grript-react-app
 
+This is a project generated initialy with:
+$ bsb -init my-react-app -theme react
+$ cd my-react-app && npm install && npm start
+$ # in another tab
+$ npm run webpack
+
 ## Run Project
 
 ```sh
